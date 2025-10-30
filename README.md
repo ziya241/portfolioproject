@@ -34,6 +34,5 @@
             <a href="#" class="btn-box">More About Me</a>
         </div>
     </section>
-<script src="script.JS"></script>
 </body>
 </html>

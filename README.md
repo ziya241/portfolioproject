@@ -24,7 +24,7 @@
             <h3>Hello, It's Me</h3>
             <h1>Ziya Fatima</h1>
             <h3>And I'm a <span class="text" ></span></h3>
-            <p>Web Developer and designer from lucknow. I create websites to do nusiness do better.</p>
+            <p>Web Developer and designer from lucknow. I create websites to do business do better.</p>
             <div class="home-sci">
                 <a href="#"><i class='bx bxl-facebook'></i></a>
                 <a href="#"><i class='bx bxl-instagram'></i></a>
